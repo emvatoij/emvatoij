@@ -1,6 +1,6 @@
 - 👋 Xin chào, Tôi là @emvatoij
 - 👀 Tôi đang lên kế hoạch cho các thiết kế của tôi
-- 🌱 Tôi sẽ giới thiệu tới bạn các tác phẩm đã ho thành của chúng tôi tại:https://trangsucvn.com .
+- 🌱 Tôi sẽ giới thiệu tới bạn các tác phẩm đã hoàn thành của trang Sức EM VÀ TÔI:https://trangsucvn.com .
 - 💞️ Tôi yêu trang sức và hơn hết là tôn vinh giá trị và vẻ đẹp của những viên đá quý hàng triệu triệu năm được cắt mài cẩn thận và chờ chủ nhân đến đón về ở cùng và yêu thương trân trọng.
 - 📫 info@trangsucvn.com
 emvatoij/emvatoij is a ✨ special ✨ Tôi cũng rất cảm ơn GitHub.com đã tạo ra mội môi trường thật tuyệt vời cho cộng đồng và xã hội. Một lần nữa chúng tôi mến chúc các bạn sưc khoẻ và thành công hơn nữa. `README.md` (this file) appears on your GitHub profile.
